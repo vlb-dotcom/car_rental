@@ -3,7 +3,7 @@ const nextConfig = {
   images: {
     domains: ["cdn.imagin.studio"],
   },
-  target: "serverless",
+  output: "standalone",
 };
 
 module.exports = nextConfig;
