@@ -6,14 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "postbuild": "next-on-netlify"
+    "lint": "next lint"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "find-cache-dir": "^5.0.0",
     "next": "14.0.0",
-    "next-on-netlify": "^3.0.1",
     "react": "^18",
     "react-dom": "^18"
   },
